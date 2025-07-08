@@ -58,8 +58,8 @@ const NavBar = () => {
       </div>
       <div className="navbar-end">
        <div className="gap-10">
-         <a className="btn">Button</a>
-         <a className="btn">Button</a>
+         <a className="btn">LogIn </a>
+         <a className="btn">Register</a>
        </div>
       </div>
     </div>
